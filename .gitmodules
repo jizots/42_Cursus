@@ -1,0 +1,3 @@
+[submodule "01_Libft"]
+	path = 01_Libft
+	url = https://github.com/jizots/Libft
