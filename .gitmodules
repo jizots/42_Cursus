@@ -1,3 +1,18 @@
 [submodule "01_Libft"]
 	path = 01_Libft
 	url = https://github.com/jizots/Libft
+[submodule "02_ft_printf"]
+	path = 02_ft_printf
+	url = git@github.com:jizots/ft_printf.git
+[submodule "03_get_next_line"]
+	path = 03_get_next_line
+	url = git@github.com:jizots/get_next_line.git
+[submodule "05_push_swap"]
+	path = 05_push_swap
+	url = git@github.com:jizots/push_swap.git
+[submodule "06_FDF"]
+	path = 06_FDF
+	url = git@github.com:jizots/FDF.git
+[submodule "07_pipex"]
+	path = 07_pipex
+	url = git@github.com:jizots/pipex.git
