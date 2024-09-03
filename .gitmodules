@@ -16,3 +16,21 @@
 [submodule "07_pipex"]
 	path = 07_pipex
 	url = git@github.com:jizots/pipex.git
+[submodule "08_minishell"]
+	path = 08_minishell
+	url = git@github.com:Thomas-Chqt/minishell.git
+[submodule "09_Philosophers"]
+	path = 09_Philosophers
+	url = git@github.com:jizots/Philosophers.git
+[submodule "10_cub3d"]
+	path = 10_cub3d
+	url = git@github.com:jizots/cub3d.git
+[submodule "12_CPP-Modules"]
+	path = 12_CPP-Modules
+	url = git@github.com:jizots/CPP-Modules.git
+[submodule "13_Inception"]
+	path = 13_Inception
+	url = git@github.com:jizots/inception.git
+[submodule "14_webserv"]
+	path = 14_webserv
+	url = git@github.com:jizots/webserv.git
